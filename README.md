@@ -101,7 +101,7 @@
 
 ### 🔐 Login Page
 
-![Login Page](./screenshots/login.png)
+![Login Page](https://github.com/Nayan8319/Financial-Accounting-System/blob/main/moduleImages/mainModules/Login.png)
 
 ### 📝 Registration Page
 
