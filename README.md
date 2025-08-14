@@ -103,73 +103,34 @@
 
 ![Login Page](https://github.com/Nayan8319/Financial-Accounting-System/blob/main/moduleImages/mainModules/Login.png)
 
-### 📝 Registration Page
+### 📦 Admin Dashboard
 
-![Registration Page](./screenshots/register.png)
+![Product Inventory](https://github.com/Nayan8319/Financial-Accounting-System/blob/main/moduleImages/mainModules/adminDashboard.png)
 
-### 🏠 Home Page
+### 👨‍💼 User Management
 
-![Home Page](./screenshots/home.png)
+![Product Inventory](https://github.com/Nayan8319/Financial-Accounting-System/blob/main/moduleImages/mainModules/userManagement.png)
 
-### 📦 Product Inventory
+### 📦 Reports 
 
-![Product Inventory](./screenshots/product_inventory.png)
+![Product Inventory](https://github.com/Nayan8319/Financial-Accounting-System/blob/main/moduleImages/mainModules/report.png)
 
-### 🛒 Cart Page
 
-![Cart](./screenshots/cart.png)
+### 📦 User Dashboard
 
-### 💳 Checkout Page
+![Cart](https://github.com/Nayan8319/Financial-Accounting-System/blob/main/moduleImages/mainModules/userDashboard.png)
 
-![Checkout](./screenshots/checkout.png)
+### 👨‍💼 Customer Management
 
-### 📬 Add Address Page
+![Product Inventory](https://github.com/Nayan8319/Financial-Accounting-System/blob/main/moduleImages/mainModules/customerManagement.png)
 
-![Add Address](./screenshots/add_address.png)
+### 👨‍💼 Products Management
 
-### 📜 Order History
+![Product Inventory](https://github.com/Nayan8319/Financial-Accounting-System/blob/main/moduleImages/mainModules/productManagement.png)
 
-![Order History](./screenshots/order_history.png)
+### 👨‍💼 Sales Management
 
-### 👨‍💼 Admin Dashboard
-
-![Admin Dashboard](./screenshots/admin_dashboard.png)
-
-### 🧾 Manage Orders
-
-![Manage Orders](./screenshots/manage_orders.png)
-
-### 🗂️ Manage Categories
-
-![Manage Categories](./screenshots/manage_categories.png)
-
-### ✏️ Add/Edit Menu
-
-![Add Edit Menu](./screenshots/add_edit_menu.png)
-
-### 👥 User Management
-
-![User Management](./screenshots/user_management.png)
-
-### 📄 Export Reports
-
-![Reports](./screenshots/export_reports.png)
-
-### 🔍 Search and Filter
-
-![Search Filter](./screenshots/search_filter.png)
-
-### 🧑‍💼 Edit Profile Page
-
-![Edit Profile](./screenshots/edit_profile.png)
-
-### 📊 Sales Dashboard View
-
-![Sales Dashboard](./screenshots/sales_dashboard.png)
-
-### 🧾 Generated PDF Invoice
-
-![PDF Invoice](./screenshots/pdf_invoice.png)
+![Product Inventory](https://github.com/Nayan8319/Financial-Accounting-System/blob/main/moduleImages/mainModules/saleManagement.png)
 
 ---
 
